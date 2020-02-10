@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Marina Galić | Fakebook</title>
+</head>
+<body>
+<h1>
+    <i>FAKEBOOK</i>
+</h1>
+Search:
+<input type="text"placeholder="Search by name">
 
+<h2>Marina Galić</h2>
+
+<img src="IMG_20150906_230218.jpg" height="400" width="400">
+
+<br>
+<br>
+
+<button>Ad as friend</button>
+<br>
+<p>
+    <strong>City:</strong>
+    Zagreb
+</p>
+<p>
+    <strong>Age:</strong>
+    30
+</p>
+<p>
+    <strong>Hobby:</strong>
+    Watching movies
+</p>
+<p>
+    <strong>FB friends:</strong>
+    No one cares
+</p>
+</body>
+</html>
